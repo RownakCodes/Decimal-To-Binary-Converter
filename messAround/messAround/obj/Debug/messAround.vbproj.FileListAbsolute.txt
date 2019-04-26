@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.Resources.resources
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\messAround\messAround\bin\Debug\messAround.exe.config
+C:\Users\User\source\repos\messAround\messAround\bin\Debug\messAround.exe
+C:\Users\User\source\repos\messAround\messAround\bin\Debug\messAround.pdb
+C:\Users\User\source\repos\messAround\messAround\bin\Debug\messAround.xml
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.exe
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.xml
+C:\Users\User\source\repos\messAround\messAround\obj\Debug\messAround.pdb
